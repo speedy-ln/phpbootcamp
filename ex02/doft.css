@@ -1,0 +1,249 @@
+.container{
+    width: 100%!important;
+
+}
+
+.box
+{
+    min-width: 1500px;
+    height: 150px;
+    background-color: #909090;
+    border-radius: 10px;
+    margin-left: 4%;
+    margin-right: 4%;
+    box-shadow: 10px 10px 10px #000000;
+    position: relative!important;
+}
+
+
+.side_bar1
+{
+    height: 464px;
+    width: 150px;
+    background-color: #909090;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+    float: right;
+    position: absolute;
+    left: 860%;
+    top: 15px;
+}
+
+.side_bar
+{
+    height: 464px;
+    width: 150px;
+    background-color: #909090;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+    margin-left: 110%;
+    margin-top: 15px;
+}
+
+.apple
+{
+    position: absolute;
+    left: 700%;
+    top: 319px;
+    height: 142px;
+    width: 190px;
+    z-index: 2;
+}
+
+.lol
+{
+    margin-left: 10px;
+}
+
+.button
+{
+    position: absolute;
+    z-index: 3;
+    left: 408px;
+    top: 76px;
+}
+
+.lol2
+{
+    margin-left: 10px;
+}
+
+input
+{
+    margin-left: 10px;
+    width: 74%;
+}
+
+.lol3
+{
+    margin-left: 10px;
+}
+.textbox
+{
+    height: 155px;
+    width: 519px;
+    background-color: #83FF90;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+    float: left;
+    position: absolute;
+    left: 165px;
+    top: 508px;
+    z-index: 2;
+    margin-bottom: 20%;
+}
+
+.ikea
+{
+    position: absolute;
+    left: 420%;
+    top: 328px;
+    height: 200px;
+    width: 144px;
+    z-index: 2;
+}
+.middlebar
+{
+    height: 90%;
+    width: 620%;
+    background-color: #909090;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000000;
+    position: absolute;
+    left: 225%;
+    top: 15px;
+}
+
+.middlepic img
+{
+    height: auto;
+    width: 600%;
+    position: absolute;
+    left: 235%;
+    top: 27px;
+    z-index: 1;
+}
+
+.book img
+{
+    position: absolute;
+    left: 880%;
+    top: 28px;
+    height: 100px;
+    width: 81px;
+}
+
+.towel img
+{
+    position: absolute;
+    left: 880%;
+    top: 138px;
+    height: 55px;
+    width: 64px;
+}
+
+.wall
+{
+    position: absolute;
+    left: 870%;
+    top: 195px;
+    background-repeat: repeat;
+    background-image: url("resources/brick.jpg");
+    width: 129px;
+    height: 86px;
+}
+
+.arrow img
+{
+    position: absolute;
+    left: 135%;
+    top: 28px;
+    height: 81px;
+    width: 81px;
+}
+
+.fist img
+{
+    position: absolute;
+    left: 135%;
+    top: 111px;
+    height: 81px;
+    width: 81px;
+}
+
+.eye img
+{
+    position: absolute;
+    left: 135%;
+    top: 198px;
+    height: 81px;
+    width: 81px;
+    border: 5px solid red;
+    border-radius: 5px;
+}
+
+.settings img
+{
+    position: absolute;
+    left: 135%;
+    top: 284px;
+    height: 81px;
+    width: 81px;
+}
+
+.chat img
+{
+    position: absolute;
+    left: 135%;
+    top: 369px;
+    height: 81px;
+    width: 81px;
+}
+
+.section
+{
+    position: relative;
+    display: inline-block;
+    height: 600px;
+}
+
+body
+{
+    background-color: #505050;
+}
+
+.reload img
+{
+    position: absolute;
+    width: 20px;
+    top: 10px;
+    right: 6px;
+}
+
+.header
+{
+    margin-top: 10px;
+    margin-left: 20px;
+    position: relative;
+    float: left;
+}
+
+.header img {
+    height: 130px;
+}
+.mag_glass
+{
+    position: absolute;
+    top: 31px;
+    right: 32px;
+}
+
+.mag_glass img{
+    width: 240px;
+}
+.exit
+{
+    position: absolute;
+    bottom: 2px;
+    right:  5px;
+}
