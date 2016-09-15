@@ -33,7 +33,6 @@ $sentence = "";
 while (isset($argv[$i]))
 {
     $sentence .= $argv[$i]." ";
-//    $array[] = ft_split(epur_str($argv[$i]));
     $i++;
 }
 $sentence = epur_str($sentence);
